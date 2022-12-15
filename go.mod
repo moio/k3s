@@ -142,3 +142,5 @@ require (
 	k8s.io/utils v0.0.0-20221011040102-427025108f67
 	sigs.k8s.io/yaml v1.3.0
 )
+
+replace github.com/k3s-io/kine => github.com/moio/kine v0.0.0-20221219175513-f53c5209a149
